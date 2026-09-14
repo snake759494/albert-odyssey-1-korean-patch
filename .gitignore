@@ -1,0 +1,14 @@
+*.sfc
+*.smc
+*.bin
+*.dll
+*.exe
+*.state
+*.srm
+*.xdelta
+*.zip
+*.ttf
+*.ttc
+*.otf
+__pycache__/
+*.pyc

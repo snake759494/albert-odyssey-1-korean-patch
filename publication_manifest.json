@@ -1,0 +1,352 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 110,
+      "sha256": "b6831aa15695c30eda1708659d64ca75fc3641d578879ec081dc3800ef5a1b6b"
+    },
+    {
+      "path": "analysis/Albert_Odyssey_translation.asm",
+      "size": 22982,
+      "sha256": "afe8cfc41105a6e5b59141f2374124f000d788a499ff94dabdb698e7e8fd1539"
+    },
+    {
+      "path": "analysis/all_rom_text.json",
+      "size": 1342160,
+      "sha256": "9e7cfa4d98a0f1a11c7fc66f75c0b3dbd6934914fe95beb7526406d10b187eb8"
+    },
+    {
+      "path": "analysis/facing_latency_20260911/attack_play_release/frame0004.png",
+      "size": 29996,
+      "sha256": "489ff031cf75d7f41636098d811ed47bbce8f73264f5f086a27b59c752cd4933"
+    },
+    {
+      "path": "analysis/facing_latency_20260911/attack_release/frame0003.png",
+      "size": 31014,
+      "sha256": "f409e4bce674f259e5453dd17232bcc34bd2216f2cf16e32d5958bbf16b1dc25"
+    },
+    {
+      "path": "analysis/facing_latency_20260911/binary_scope.json",
+      "size": 321,
+      "sha256": "19f8fb5edbe04c107f4c15c794f5bf76ce92edcb0b14eb4bde3f67179c4704f0"
+    },
+    {
+      "path": "analysis/facing_latency_20260911/release_opening/report.json",
+      "size": 447,
+      "sha256": "d4a135a9b3c39e50b16de268271e8a2f21c0397003e7b2a4126152d50b8884e7"
+    },
+    {
+      "path": "analysis/facing_latency_20260911/release_route/frame0032.png",
+      "size": 16075,
+      "sha256": "651583cc553898d22e74c3404e63f0e195f374984a1a211b82852a2cd39c6b1c"
+    },
+    {
+      "path": "analysis/facing_latency_20260911/release_route/frame0065.png",
+      "size": 30100,
+      "sha256": "dcccc751deb5ece6564f6a1e089fe9c93b9e61d55ec8a8aad88a56eec3b7a227"
+    },
+    {
+      "path": "analysis/facing_latency_20260911/release_validation.json",
+      "size": 882,
+      "sha256": "961d8fb3d4d47c6caeff68b7c1f85f98d2e284f7d30d5d610de3028c5305e74e"
+    },
+    {
+      "path": "analysis/facing_latency_20260911/runtime_report.json",
+      "size": 455857,
+      "sha256": "3e9415c116ce5c1ecdc65b527add74adf690a999369e40e243c1c2451b1e4669"
+    },
+    {
+      "path": "analysis/facing_latency_20260911/summary.json",
+      "size": 9823,
+      "sha256": "de6fdeb2556d91a02517ad8f3cb0e9a914f3e8861f4e47b32d240ee83dcdf8d8"
+    },
+    {
+      "path": "analysis/full_dialogue_translations.json",
+      "size": 1035338,
+      "sha256": "40cd671d1d2c12992f55c6edaa85771fa7495a2f11bd9b1cc826ed2ac896591c"
+    },
+    {
+      "path": "analysis/full_source_records.json",
+      "size": 40251,
+      "sha256": "f21f516eac16e77a72fb329e59d287c028b8dc07666a1a26a8515fe02666c11d"
+    },
+    {
+      "path": "analysis_compression/decode.py",
+      "size": 1110,
+      "sha256": "3ab8957fbed19fd89e6aadd4671bc2939f416677dfa3d30cc82dcfc657224dc1"
+    },
+    {
+      "path": "analysis_compression/disasm.py",
+      "size": 759,
+      "sha256": "723b1034c2e855ec353cc6f9ec867bbfa10571d1f4f7cf0c3108fc2d55fbae88"
+    },
+    {
+      "path": "analysis_font_scan/benchmark_action.py",
+      "size": 3809,
+      "sha256": "cca0826b3a399256ad85ae59eba8185e50a6bbc44af1fff1557fffc0be54ce35"
+    },
+    {
+      "path": "analysis_font_scan/benchmark_battle.py",
+      "size": 3306,
+      "sha256": "001e091420d83fe6f11810815271aefe8976c4e0bcd98cd2dc38a2c0955b0cdc"
+    },
+    {
+      "path": "analysis_font_scan/check_translation_review.py",
+      "size": 9300,
+      "sha256": "3ba284f7dcfd421f57e3c66e086b2e5275c601ec7f91398d390a41a935287e33"
+    },
+    {
+      "path": "analysis_font_scan/continue_play.py",
+      "size": 3680,
+      "sha256": "4039e350a8996223b02ec4c3c9c1191d8e88f10f56b50e4f658be51c25407d9c"
+    },
+    {
+      "path": "analysis_font_scan/extract_all_text.py",
+      "size": 3491,
+      "sha256": "b4c44d253acee70baf67c1ec69545b677ce9fa0f8e59da06e4d267bd18344673"
+    },
+    {
+      "path": "analysis_font_scan/finalize_action_latency.py",
+      "size": 8372,
+      "sha256": "ddeedbd48367a859bfff739a6ba43beeb90733b10d5ea85a665b045021757eda"
+    },
+    {
+      "path": "analysis_font_scan/finalize_battle_latency.py",
+      "size": 8596,
+      "sha256": "04efe9d7c8f66f13e7724f4f2e173cfa600debb464cc96164e0660b6fa7a34c0"
+    },
+    {
+      "path": "analysis_font_scan/finalize_freeze_review.py",
+      "size": 6088,
+      "sha256": "2a268c577df9d07d4e17672bd1be87e692ee4e94dc805ed093ab96ef6ec522aa"
+    },
+    {
+      "path": "analysis_font_scan/finalize_opening_review.py",
+      "size": 7878,
+      "sha256": "7ff1f9e64805518d301ac92bf83275c6d00c06832a1bf0de4be2e2060b64b52d"
+    },
+    {
+      "path": "analysis_font_scan/freeze_audit.py",
+      "size": 5686,
+      "sha256": "a3493a0a500f4406bd76e0503c094cbf7322ffe77e4ddaa613a83114d933685e"
+    },
+    {
+      "path": "analysis_font_scan/freeze_route_replay.py",
+      "size": 2320,
+      "sha256": "f5f1a2211cc2ae209083ac8da24381547342834b3926c742eb2a9fd7a73fa1e9"
+    },
+    {
+      "path": "analysis_font_scan/inspect_checkpoint.py",
+      "size": 1871,
+      "sha256": "6707025acf456a0c91eac26d93f680d7136c999fd0125fc035d593f49fa78414"
+    },
+    {
+      "path": "analysis_font_scan/migrate_review_font.py",
+      "size": 2032,
+      "sha256": "2c0fddbb0d343565dc46744040e151b3361efce828d2333bf132cc12c2c05a2f"
+    },
+    {
+      "path": "analysis_font_scan/opening_capture_review.py",
+      "size": 3346,
+      "sha256": "cf7866e2cb087d969a900838e5cec07ce20ef355f1cb6c86f229e126d094dabd"
+    },
+    {
+      "path": "analysis_font_scan/probe_control.py",
+      "size": 1973,
+      "sha256": "102bd173dbc30fc3947e2d5ad5534ce7dbe83b502ac38e9a779618c721df2abb"
+    },
+    {
+      "path": "analysis_font_scan/probe_input.py",
+      "size": 1703,
+      "sha256": "9203981733089bb18eff0fc072c3212b268bf5b369e2cbbe4995320f6fc7c043"
+    },
+    {
+      "path": "analysis_font_scan/probe_medicine.py",
+      "size": 1990,
+      "sha256": "688973a9e479f3d5655421392c20b6ee0f4c4a47d9828c543fa593141d082934"
+    },
+    {
+      "path": "analysis_font_scan/probe_nuras.py",
+      "size": 1111,
+      "sha256": "27343d659af740b0df0d3f5cd12e6efbcff5ab94d697ece97600775889bd2eb9"
+    },
+    {
+      "path": "analysis_font_scan/probe_transition.py",
+      "size": 1724,
+      "sha256": "de679ed4add11d3752379a53f9e80f85a75013429a62a9a2859e97bd976d95f0"
+    },
+    {
+      "path": "analysis_font_scan/qa_cursor.py",
+      "size": 1683,
+      "sha256": "4a094934be8abccb2e08a1af09f2505863c1f3247a152ce034fc65588dc95a6c"
+    },
+    {
+      "path": "analysis_font_scan/qa_enemy_hp.py",
+      "size": 1608,
+      "sha256": "621e18140ec3415059a47b08689c9c83ea57194da399095f6e7ede21ed90ede6"
+    },
+    {
+      "path": "analysis_font_scan/qa_equipment_width.py",
+      "size": 1446,
+      "sha256": "d18c375c8267937f1ad46c50f39b0134e0624faa989f6a68d3a245013c21df35"
+    },
+    {
+      "path": "analysis_font_scan/qa_gather_town.py",
+      "size": 1834,
+      "sha256": "e351e3995a9bb6e6b295c1158cfca40d6a3d79b7e98768f37a3a71f0d34be327"
+    },
+    {
+      "path": "analysis_font_scan/qa_relocate.py",
+      "size": 2160,
+      "sha256": "2cf28d64d3bcd9770f59d960ab327d7810ccfeb9b4ec78f3985be47080111077"
+    },
+    {
+      "path": "analysis_font_scan/qa_town_shift.py",
+      "size": 2514,
+      "sha256": "b38f00b612bc7fc12b2b4aae06ce87d16b4788645e5e59845afca689e02cf4f1"
+    },
+    {
+      "path": "analysis_font_scan/replay_action_probe.py",
+      "size": 2290,
+      "sha256": "ac2c934672b2f7f68317bf8c1fddeb6deb39eba02ce1b6fa7439744e747a71ad"
+    },
+    {
+      "path": "analysis_font_scan/replay_continuous.py",
+      "size": 2192,
+      "sha256": "2179e231d3c247d4f825887da818dfff6cc7aebd53985d97cab2f9b22ff64324"
+    },
+    {
+      "path": "analysis_font_scan/review_background.py",
+      "size": 1903,
+      "sha256": "127fb6221e42b253eba97313082cdb27c9c19e035a14997042ab076de227a5fe"
+    },
+    {
+      "path": "analysis_font_scan/review_dialogue.py",
+      "size": 7738,
+      "sha256": "92af9e0f02dbd1664f75eaaca63c3fdca6c2d3aa73ecd71cdcf98e71922deaec"
+    },
+    {
+      "path": "analysis_font_scan/run_headless.py",
+      "size": 4064,
+      "sha256": "d7675e749367306c1bedbf717c7a65b2ef448e0b746d5837f7bef441b3f9ce72"
+    },
+    {
+      "path": "analysis_font_scan/run_story_probe.py",
+      "size": 4276,
+      "sha256": "d15d247cfffcfdf47bf2556d88aba0c8441b351b4f2b0757b8e1f0a00b2a74a4"
+    },
+    {
+      "path": "analysis_font_scan/setup_facing_probe.py",
+      "size": 2368,
+      "sha256": "a4f63e411bcb7b2d9d56069b0937eee2e25c78bab9bd83f2bd1e01efe879a87c"
+    },
+    {
+      "path": "analysis_font_scan/static_build_check.py",
+      "size": 2616,
+      "sha256": "c064e48eca8c9c51af6f96580a518b16e504202a32d8c4d840126b6a2c8ec41d"
+    },
+    {
+      "path": "analysis_font_scan/verify_battle_opening.py",
+      "size": 2857,
+      "sha256": "b201c909e3eb942288059b82e2f17af71d0662194912aacce3d16c43b12e8cb6"
+    },
+    {
+      "path": "analysis_font_scan/verify_release_data.py",
+      "size": 5728,
+      "sha256": "4cb8236c76f525669bdfe67d22215d0e1c087b0aac5c575c47bf88f9a2b73366"
+    },
+    {
+      "path": "analysis_font_scan/verify_review_build.py",
+      "size": 2199,
+      "sha256": "fec3b1eebd8b135022bdf1abc442a27ed72847e194f9b1d3c6fa97cf6bf0c3e8"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size": 406,
+      "sha256": "d7310b6f5acee43ec8018a6433c2f63df9dac39d0c38faadf4d5a595c8881688"
+    },
+    {
+      "path": "docs/BUILD.md",
+      "size": 1139,
+      "sha256": "265738f48ca947083ce967755fdd70fe2f54144f60b58abc2363175f6f2fd60b"
+    },
+    {
+      "path": "font_export/build_korean_full_patch.py",
+      "size": 56208,
+      "sha256": "8be9f766d7cb6279754447cd99e291fde7ce9be1ba49f192bbffae757bd70ef7"
+    },
+    {
+      "path": "font_export/build_korean_test_patch.py",
+      "size": 18189,
+      "sha256": "1793bce963fd5e4b85f9c1754add9cbe9a2719c52b5d37f4ea53d815cbaed12f"
+    },
+    {
+      "path": "font_export/expand_font_space.py",
+      "size": 7388,
+      "sha256": "6206bf4bce650287b586f59df80dffaee921335f3653c397bb2e6e96f555a9c6"
+    },
+    {
+      "path": "font_export/extract_font.py",
+      "size": 7004,
+      "sha256": "93600b18f0edacd9402a6acde36655b39cb7ebd977b8dfd6459d2e3f2d99fb5b"
+    },
+    {
+      "path": "font_export/font_layout.py",
+      "size": 4142,
+      "sha256": "71edf6927297b009800a3ad68f677b0eecf39436af68203116674be442f6ce16"
+    },
+    {
+      "path": "font_export/full_korean_translation.py",
+      "size": 16391,
+      "sha256": "52a50512a0a40d46c074542f668b2fe9e0190baa903f8e5ca14c04e13646fd90"
+    },
+    {
+      "path": "font_export/remaining_korean_translation.json",
+      "size": 49573,
+      "sha256": "de93253e0352d177dc26457edbb2de95709371ae18bd28fd616114fe15197f69"
+    },
+    {
+      "path": "font_export/review_fixes.json",
+      "size": 23140,
+      "sha256": "4601b4d13eb2ad3dc1525f1f0137dc6915c32fce0b1cde608008f71a6a2145d5"
+    },
+    {
+      "path": "README.md",
+      "size": 4108,
+      "sha256": "953474b7d8af517cbf0bad0bda24a060fdf05282596739d62788d40d75fc99de"
+    },
+    {
+      "path": "RIGHTS.md",
+      "size": 937,
+      "sha256": "d3a0254ac2657f54b575ca4ed815ce3cd8f3f55b6766e5eda5a2d3fab4dc8b9e"
+    },
+    {
+      "path": "tools/apply_release.py",
+      "size": 2226,
+      "sha256": "3e514e9a4652248dfd307a4aa27fbdfad2cf18688c28a79172b9a6ba72ca4718"
+    },
+    {
+      "path": "validation/release.json",
+      "size": 700,
+      "sha256": "321f566a0ac33c626ba9b3dc0034c705404d5298170eaa695bf061bb0b95b6b6"
+    },
+    {
+      "path": "재빌드결과.md",
+      "size": 4381,
+      "sha256": "921173af75c7cc0d691c90462d96945fa193399fb298309234573141ead77ef9"
+    }
+  ],
+  "release_asset": {
+    "filename": "Albert Odyssey - Korean Full.xdelta",
+    "size": 62723,
+    "md5": "9d4c4b9876b3aaf3a0590489e9c88de5",
+    "sha256": "57daeca98a2ca096429337e1d0e4b87dfc163ef02a8b2595d059ee2c38e3f719"
+  },
+  "excluded": [
+    "ROM",
+    "binary dumps",
+    "font files",
+    "executables",
+    "save states"
+  ]
+}

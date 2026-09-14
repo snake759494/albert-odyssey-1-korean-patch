@@ -1,0 +1,8 @@
+{
+  "rom_sha256": "5509b4d8afda2bc497c2245bd2824629a703eac907d65660347041ffba2f183b",
+  "original_code_region_unchanged_except_terrain_labels_and_checksum": true,
+  "direct_index_unchanged": true,
+  "balloon_and_caption_hooks_unchanged": true,
+  "no_ram_or_sram_cache_added": true,
+  "total_changed_bytes": 48695
+}

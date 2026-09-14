@@ -1,0 +1,20 @@
+{
+  "rom_sha256": "5509b4d8afda2bc497c2245bd2824629a703eac907d65660347041ffba2f183b",
+  "frames_run": 42001,
+  "checks": [
+    {
+      "record": "0x43d73",
+      "frame": 6420,
+      "glyph_mismatches": [],
+      "row_bounded": true,
+      "lower_tiles_match": true
+    },
+    {
+      "record": "0x43c4f",
+      "frame": 16331,
+      "glyph_mismatches": [],
+      "row_bounded": true,
+      "lower_tiles_match": true
+    }
+  ]
+}

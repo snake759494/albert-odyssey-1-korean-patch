@@ -1,0 +1,21 @@
+{
+  "source": {
+    "filename": "Albert Odyssey.sfc",
+    "size": 1048576,
+    "md5": "8822eb60ec69ede557c3294bae005b32",
+    "sha256": "abc9ee63a624dbabfd255774a254517a46be54c37aa26a89db2a299277548190"
+  },
+  "output": {
+    "filename": "Albert Odyssey - Korean Full.sfc",
+    "size": 2097152,
+    "md5": "a7d26211f76d8fe61ce4ee2a4c314ecd",
+    "sha256": "5509b4d8afda2bc497c2245bd2824629a703eac907d65660347041ffba2f183b"
+  },
+  "patch": {
+    "filename": "Albert Odyssey - Korean Full.xdelta",
+    "size": 62723,
+    "md5": "9d4c4b9876b3aaf3a0590489e9c88de5",
+    "sha256": "57daeca98a2ca096429337e1d0e4b87dfc163ef02a8b2595d059ee2c38e3f719"
+  },
+  "roundtrip_verified": true
+}
