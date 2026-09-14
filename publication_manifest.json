@@ -313,7 +313,7 @@
     {
       "path": "README.md",
       "size": 4108,
-      "sha256": "953474b7d8af517cbf0bad0bda24a060fdf05282596739d62788d40d75fc99de"
+      "sha256": "768fc83180239d8a7be02ea5e78fe1e9d12b7779224928bc2540adb858768676"
     },
     {
       "path": "RIGHTS.md",
@@ -328,7 +328,7 @@
     {
       "path": "validation/release.json",
       "size": 700,
-      "sha256": "321f566a0ac33c626ba9b3dc0034c705404d5298170eaa695bf061bb0b95b6b6"
+      "sha256": "785002c006c8dc098defe750dd5c636a5ba183acb483ef5a2134dc3cb8ee7d5f"
     },
     {
       "path": "재빌드결과.md",
@@ -337,7 +337,7 @@
     }
   ],
   "release_asset": {
-    "filename": "Albert Odyssey - Korean Full.xdelta",
+    "filename": "Albert.Odyssey.-.Korean.Full.xdelta",
     "size": 62723,
     "md5": "9d4c4b9876b3aaf3a0590489e9c88de5",
     "sha256": "57daeca98a2ca096429337e1d0e4b87dfc163ef02a8b2595d059ee2c38e3f719"

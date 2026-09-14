@@ -8,7 +8,7 @@
 
 ## 배포 구성
 
-스타오션 1 프로젝트와 같은 구성으로 제작 소스·번역·검수 자료를 공개합니다. 릴리즈 직접 첨부 파일은 **`Albert Odyssey - Korean Full.xdelta` 하나**입니다. 원본·완성 ROM, 추출 바이너리·게임 글꼴 덤프·에뮬레이터·세이브 스테이트는 포함하지 않습니다. 자동 Source code ZIP/TAR는 공개 저장소 압축본입니다.
+스타오션 1 프로젝트와 같은 구성으로 제작 소스·번역·검수 자료를 공개합니다. 릴리즈 직접 첨부 파일은 **`Albert.Odyssey.-.Korean.Full.xdelta` 하나**입니다. 원본·완성 ROM, 추출 바이너리·게임 글꼴 덤프·에뮬레이터·세이브 스테이트는 포함하지 않습니다. 자동 Source code ZIP/TAR는 공개 저장소 압축본입니다.
 
 ## 대상 원본과 확인값
 
@@ -36,8 +36,8 @@
 5. 게임을 완전히 종료하고 새 ROM을 여세요. 이전 버전의 에뮬레이터 강제 저장은 옛 코드·글꼴을 복원할 수 있으므로 게임 내 일반 저장으로 이어 하세요.
 
 ```powershell
-.\xdelta3.exe -d -s './Albert Odyssey.sfc' './Albert Odyssey - Korean Full.xdelta' './Albert Odyssey - Korean Full.sfc'
-python tools/apply_release.py --xdelta './xdelta3.exe' --source './Albert Odyssey.sfc' --patch './Albert Odyssey - Korean Full.xdelta' --output './new-korean.sfc'
+.\xdelta3.exe -d -s './Albert Odyssey.sfc' './Albert.Odyssey.-.Korean.Full.xdelta' './Albert Odyssey - Korean Full.sfc'
+python tools/apply_release.py --xdelta './xdelta3.exe' --source './Albert Odyssey.sfc' --patch './Albert.Odyssey.-.Korean.Full.xdelta' --output './new-korean.sfc'
 ```
 
 두 명령은 대안입니다. 자체 적용 도구는 원본·패치·결과 해시를 검사하고 기존 출력 파일을 덮어쓰지 않습니다. xdelta 도구는 별도 준비하며 이 배포에 실행 파일은 포함하지 않습니다.
